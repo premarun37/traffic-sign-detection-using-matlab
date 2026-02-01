@@ -148,3 +148,10 @@ Detected traffic signs will be displayed with bounding boxes.
 
 ---
 
+
+## Team Members
+
+- Prem Arun P  
+- Arish Babu S  
+
+---
